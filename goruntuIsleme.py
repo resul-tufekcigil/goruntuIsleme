@@ -9,7 +9,6 @@ import sys,getopt
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-import random
 def main(argv):
    image_path = ""
    def filtrele(img, filtre):
