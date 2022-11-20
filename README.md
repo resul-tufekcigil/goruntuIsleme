@@ -1,1 +1,1 @@
-# goruntuIsleme
+# Görüntü İşleme Ödevi
