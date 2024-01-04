@@ -1,5 +1,4 @@
-# Görüntü İşleme Ödevi
-## _Resul Tüfekçigil 2016010205017 (%30 1.Öğretim)_
+
 
 Ödev sırasında kullanılan kütüphaneler:
 - cv2 (openCv)
